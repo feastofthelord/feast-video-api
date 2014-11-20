@@ -1,0 +1,1 @@
+ curl -v -H "Accept: application/json" -H "Content-type: application/json" -X POST -d '{"api_v1_video":{"title":"nul","description":"Pragmatic programmers","series":"null","speaker":"Agile"}}'  http://localhost:3000/api/v1/videos
